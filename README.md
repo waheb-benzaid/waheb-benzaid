@@ -6,3 +6,5 @@
 - 📫 How to reach me : waheb.benzaid@gmail.com
 
 
+- name: WakaTime Stat Update Action
+  uses: avinal/Profile-Readme-WakaTime@v3.0
