@@ -6,7 +6,7 @@
 - 📫 How to reach me : waheb.benzaid@gmail.com
 -Github Stats : 
 
-![Waheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=waheb-benzaid&count_private=true)
+![Waheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=waheb-benzaid&count_private=true&theme=gruvbox_light&layout=compact)
 
 > Language usage
 
