@@ -4,5 +4,5 @@
 - 🌱 I’m planning to learn Rust ASAP
 - 💞️ I’m looking to collaborate on all Software engineering stuff
 - 📫 How to reach me : waheb.benzaid@gmail.com
-
-[![Waheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=waheb-benzaid)](https://github.com/waheb-benzaid/github-readme-stats)
+- 
+![Waheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=waheb-benzaid&count_private=true)
