@@ -10,6 +10,6 @@
 
 > Language usage
 
-<div align="center">
+<div>
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=waheb-benzaid&theme=gruvbox_light&layout=compact"/>
 </div>
