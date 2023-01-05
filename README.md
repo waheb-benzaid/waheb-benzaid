@@ -6,9 +6,11 @@
 - 📫 How to reach me : waheb.benzaid@gmail.com
 -Github Stats : 
 
-![Waheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=waheb-benzaid&count_private=true&theme=tokyonight)
+<div>
+    <img height="210px" src="https://github-readme-stats.vercel.app/api?username=waheb-benzaid&count_private=true&theme=tokyonight"/>
+</div>
 
-> Language usage
+-Languages usage :
 
 <div>
     <img height="210px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=waheb-benzaid&theme=tokyonight&layout=compact"/>
