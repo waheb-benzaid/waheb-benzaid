@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waheb-benzaid
 - 👀 I’m interested in Software industry, especially in Backend Engineering.
 - 🌱 I’m currently using .Net Core as main backend technology.
-- 🌱 I’m learning GO
+- 🌱 I’m learning Data science and machine learning
 - 💞️ I’m looking to collaborate on all Software engineering stuff
 - 📫 How to reach me : waheb.benzaid@gmail.com
 
