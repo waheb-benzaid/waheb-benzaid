@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waheb Benzaid</h1>
 <h3 align="center">A Senior Software engineer focusing in the Backend and AI engineering, from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waheb-benzaid&label=Profile%20views&color=0e75b6&style=flat" alt="waheb-benzaid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waheb-benzaid" alt="waheb-benzaid" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/wahebbenzaid" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/wahebbenzaid?logo=twitter&style=for-the-badge" alt="https://x.com/wahebbenzaid" /></a> </p>
-
 - 🌱 I’m currently learning **Machine learning and Data Science**
 
 - 📫 How to reach me **waheb.benzaid@gmail.com**
